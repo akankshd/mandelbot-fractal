@@ -1,2 +1,2 @@
-# mandelbot-fractal
-mandelbot-fractal algo in c++
+# mandelbrot-fractal
+mandelbrot-fractal algo in c++
